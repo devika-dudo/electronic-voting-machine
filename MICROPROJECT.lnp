@@ -1,0 +1,3 @@
+".\Objects\microproject_new.obj" 
+TO ".\Objects\MICROPROJECT" 
+PRINT(".\Listings\MICROPROJECT.m51")
